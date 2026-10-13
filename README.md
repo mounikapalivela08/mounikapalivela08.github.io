@@ -1,23 +1,40 @@
-# Mounika Palivela — Cloud & DevOps Portfolio
+# Mounika Palivela | Cloud & DevOps Portfolio
 
-A responsive, single-page portfolio starter inspired by the structure of the reference website.
+A responsive, single-page portfolio built with plain HTML, CSS, and JavaScript and designed for GitHub Pages. The visual style uses a dark cloud-console theme, gradient accents, project cards, a skills overview, and an interactive demo terminal.
+
+## Live website
+
+- **Portfolio:** https://mounikapalivela08.github.io/
+- **GitHub:** https://github.com/mounikapalivela08
+- **LinkedIn:** https://www.linkedin.com/in/mounika-p-438a0b185/
 
 ## Preview locally
-1. Extract the ZIP.
-2. Open `index.html` in a browser.
 
-## Publish with GitHub Pages
-1. Create a GitHub repository named `YOUR-USERNAME.github.io`.
-2. Upload `index.html` to the repository root.
-3. In repository Settings → Pages, select the `main` branch and `/ (root)` if prompted.
-4. Wait for the published URL shown in Pages settings.
+1. Download or clone this repository.
+2. Open `index.html` in a browser. No build tools or dependencies are required.
 
-## Personalize before publishing
-- Add a PDF resume and connect a Download Resume button.
-- Replace the GitHub placeholder links with real repositories.
-- Replace the example project cards with projects you actually built.
-- Confirm experience dates and titles against your resume.
-- Add education details, professional email, and GitHub profile URL.
-- Optionally add project screenshots and measurable outcomes you can substantiate.
+## Publish or update with GitHub Pages
 
-The four project cards are starter examples, not assertions that those projects are completed.
+1. Open the repository `mounikapalivela08.github.io`.
+2. Upload `index.html` and `README.md` to the repository root (do not upload only the ZIP).
+3. Commit the changes to the `main` branch.
+4. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save if the setting is not already configured.
+5. Wait for the deployment to finish, then refresh the live URL.
+
+## Before sharing with recruiters
+
+- Add a professional email address and, if desired, a resume PDF with a working download link.
+- Add education details from your actual resume.
+- Update the Cisco experience section with the exact job title, dates, responsibilities, and results you can verify.
+- Replace the CI/CD, container, and monitoring starter cards with completed projects and their real repository links.
+- Include measurable outcomes only when you can substantiate them.
+- Check the website on mobile and desktop after each update.
+
+## Content accuracy note
+
+The portfolio website is the published project. Other project cards are clearly marked as starter prompts, not claims of completed work. Update all profile details to match your current resume before sending the link to employers.
+
+## Files
+
+- `index.html` — complete responsive website, styling, and interactive terminal.
+- `README.md` — project information and GitHub Pages instructions.

@@ -1,40 +1,55 @@
-# Mounika Palivela | Cloud & DevOps Portfolio
+# Mounika Palivela — Cloud & DevOps Engineer Portfolio
 
-A responsive, single-page portfolio built with plain HTML, CSS, and JavaScript and designed for GitHub Pages. The visual style uses a dark cloud-console theme, gradient accents, project cards, a skills overview, and an interactive demo terminal.
+Personal portfolio website showcasing my cloud infrastructure, DevOps, automation, and systems experience.
 
-## Live website
+**Live website:** https://mounikapalivela08.github.io/
 
-- **Portfolio:** https://mounikapalivela08.github.io/
-- **GitHub:** https://github.com/mounikapalivela08
-- **LinkedIn:** https://www.linkedin.com/in/mounika-p-438a0b185/
+## About
 
-## Preview locally
+Cloud Infrastructure and DevOps Engineer with 3+ years of experience across AWS, Azure, hybrid environments, infrastructure as code, CI/CD, Linux administration, and automation.
 
-1. Download or clone this repository.
-2. Open `index.html` in a browser. No build tools or dependencies are required.
+## Portfolio sections
 
-## Publish or update with GitHub Pages
+- **Profile:** Professional summary and core focus areas
+- **Technical skills:** Cloud platforms, IaC, CI/CD, containers, monitoring, security, scripting, and databases
+- **Professional experience:** Cisco, Virginia University of Science & Technology, and AMD
+- **Projects:** Automated Log Monitoring & Infrastructure Alerting Pipeline; System-Level File Triage & Classification Tool
+- **Education:** M.S. in Cybersecurity and B.Tech. in Computer Science
+- **Certifications:** AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals (AZ-900), Google Cloud Digital Leader, and HashiCorp Certified: Terraform Associate
+- **Contact:** Email, LinkedIn, GitHub, and location
 
-1. Open the repository `mounikapalivela08.github.io`.
-2. Upload `index.html` and `README.md` to the repository root (do not upload only the ZIP).
-3. Commit the changes to the `main` branch.
-4. In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/(root)`, then save if the setting is not already configured.
-5. Wait for the deployment to finish, then refresh the live URL.
+## Built with
 
-## Before sharing with recruiters
+- HTML5
+- CSS3 with responsive layouts, a solid navy/blue palette, and floating skill labels
+- Vanilla JavaScript for mobile navigation and subtle scroll-reveal effects
+- GitHub Pages for hosting
 
-- Add a professional email address and, if desired, a resume PDF with a working download link.
-- Add education details from your actual resume.
-- Update the Cisco experience section with the exact job title, dates, responsibilities, and results you can verify.
-- Replace the CI/CD, container, and monitoring starter cards with completed projects and their real repository links.
-- Include measurable outcomes only when you can substantiate them.
-- Check the website on mobile and desktop after each update.
+## Run locally
 
-## Content accuracy note
+1. Clone this repository:
 
-The portfolio website is the published project. Other project cards are clearly marked as starter prompts, not claims of completed work. Update all profile details to match your current resume before sending the link to employers.
+   ```bash
+   git clone https://github.com/mounikapalivela08/mounikapalivela08.github.io.git
+   ```
 
-## Files
+2. Open the repository folder.
+3. Open `index.html` in your browser.
 
-- `index.html` — complete responsive website, styling, and interactive terminal.
-- `README.md` — project information and GitHub Pages instructions.
+No build tools or package installation are required.
+
+## Deploy with GitHub Pages
+
+This repository is named `mounikapalivela08.github.io`, so GitHub Pages can publish the root of the default `main` branch. After pushing changes, allow a short time for deployment and visit:
+
+https://mounikapalivela08.github.io/
+
+## Contact
+
+- Email: palivelamounika691@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mounika-p-438a0b185/
+- GitHub: https://github.com/mounikapalivela08
+
+---
+
+© Mounika Palivela
